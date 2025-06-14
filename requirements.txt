@@ -1,0 +1,6 @@
+streamlit
+huggingface
+PyPDF2
+python-dotenv
+
+#streamlit run app.py
