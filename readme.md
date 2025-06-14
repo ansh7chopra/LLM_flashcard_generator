@@ -25,3 +25,5 @@ python -m venv venv
 venv\Scripts\activate    
 pip install -r requirements.txt
 streamlit run app.py
+
+## IN PLACE OF VIDEO THE SCREENSHOTS HAVE BEEN ADDED FOR VISUALIZATION PART 
